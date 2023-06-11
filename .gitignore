@@ -1,0 +1,9 @@
+*.pyc
+cdf_dat/
+test/
+.vscode
+runs/
+training_data/
+__pycache__
+.git
+.pyc
